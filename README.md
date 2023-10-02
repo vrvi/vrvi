@@ -1,16 +1,34 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**vrvi/vrvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm [`@cell`](https://github.com/vrvi) 👋
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```py
+class AboutMe:
+
+    def __init__(self):
+        self.age = 16
+        self.name = "Cellular"
+        self.role = "Software Engineer"
+
+    def greet(self):
+        print("Thank you for visiting! I hope you discover something intriguing among my creations.")
+
+
+me = AboutMe()
+me.greet()
+```
+-----
+<div align="center">
+
+# Languages & Tools:
+
+
+[![Languages](https://skillicons.dev/icons?i=py,go,js,html,css,bash,flask,github,vscode,blender,photoshop,ae)](https://skillicons.dev)
+
+</div>
+
+
+
+
