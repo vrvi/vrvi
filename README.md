@@ -22,7 +22,7 @@ me.greet()
 -----
 <div align="center">
 
-# Languages & Tools:
+## Languages & Tools:
 
 
 [![Languages](https://skillicons.dev/icons?i=py,go,js,html,css,bash,flask,github,vscode,blender,photoshop,ae)](https://skillicons.dev)
